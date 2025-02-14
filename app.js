@@ -1,7 +1,5 @@
 const accessKey = "xfYcwbb7FYw8gMHwkdTX-XkSwpd7wYtYAd_pWoLjbGA";
 
-// const accessKey = "a4zXXMd2LTRQFiJDXSdl7vlGNAy_RzMVmXbannbooK4";
-
 const form1 = document.querySelector(".form1");
 const input = document.querySelector(".search-input");
 const searchResults = document.querySelector(".search-results");
